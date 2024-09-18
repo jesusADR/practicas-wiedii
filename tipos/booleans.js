@@ -1,6 +1,5 @@
 "use strict";
 (() => {
-    let isSuperman = true;
-    let isBatman = false;
-    console.log({ isSuperman });
+    let isbatman = true;
+    console.log(isbatman);
 })();
