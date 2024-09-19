@@ -32,4 +32,8 @@
     const poder = '100';
     const largoDelPoder = poder.length;
     console.log(largoDelPoder);
+
+//    probando lo nuevo 
+
 })();
+
